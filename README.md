@@ -1,7 +1,7 @@
 
-#Quote-Machine
+##Quote-Machine
 
-## Simple quote generator
+# Simple quote generator
 
 React exercise
 
