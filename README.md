@@ -1,8 +1,9 @@
 
-##Quote-Machine
+## React exercise
 
-# Simple quote generator
+# Quote-Machine - Simple quote generator
 
-React exercise
+Beta, version
+
 
 
